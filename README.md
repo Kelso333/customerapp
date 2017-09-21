@@ -1,3 +1,3 @@
 # customerapp
 
-### Nodejs and Expressjs Crash Course - building customer app
+ NodejJS and ExpressJS Crash Course - building customer app
